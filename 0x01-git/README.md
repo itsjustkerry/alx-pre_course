@@ -1,1 +1,1 @@
-First directory
+Awesome directory.
